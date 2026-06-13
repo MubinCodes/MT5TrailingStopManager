@@ -114,6 +114,14 @@ If the take-profit distance is 100 pips, trailing starts after 50 pips of profit
 
 ---
 
+
+---
+
+## Screenshot
+
+### Input Settings
+
+![Input Settings](screenshots/Inputs.png)
 ## How It Works
 
 For each open position on the current chart symbol, the EA checks:
